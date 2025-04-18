@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Muhammed Murshid KP
+# I'm Muhammed Murshid KP
 
 **Bioinformatician | ML Enthusiast | MD Simulations | NGS | Drug Discovery**
 
