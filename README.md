@@ -2,35 +2,23 @@
 
 # I'm Muhammed Murshid KP
 
-**Bioinformatician | ML Enthusiast | MD Simulations | NGS | Drug Discovery**
+**Bioinformatics Analyst | NGS & Multi-omics | ML & MD Simulations | Structural Biology | Pipeline Automation & DevOps**
 
-I'm a bioinformatics researcher with strong expertise in computational biology, molecular dynamics (MD) simulations, machine learning, NGS data analysis, and antibiotic resistance research. I have hands-on experience building ML models to analyze protein conformational dynamics, pharmacophore modeling, and large-scale sequencing workflows.
+I work across the full workflow of computational biology — from high-throughput data processing to biological interpretation, as well as pipeline automation, containerization, and reproducible research engineering.
+My experience spans genomics, metagenomics, variant analysis, microbial community profiling, and protein–ligand interaction studies, combined with molecular dynamics simulations and machine learning for structural insights.
 
-Currently, I'm a Research Assistant at Telscie Genetics, working on targeted antibiotic technologies and their molecular impact. I also served as a research scholar at CCS HAU, where I explored protein folding complexity using MD simulations and machine learning.
-
-### 🔬 Research Focus
-- Protein-ligand interactions & mutation analysis  
-- Pharmacophore modeling of resistant pathogens  
-- High-throughput sequencing & NGS data pipelines  
-- AI/ML-driven analysis of biological systems  
+### Core Expertise
+- NGS data analysis & interpretation (WGS, RNA-Seq, amplicon profiling)
+- Genome assembly, variant calling & functional annotation
+- Microbial community profiling & abundance analytics
+- Protein–ligand interaction modeling, ΔΔG prediction & structural analysis
+- MD + ML workflows for structural feature extraction & conformational analysis
+- Pipeline automation, reproducibility engineering & high-performance computing
+- Containerized environments & deployment: Docker / Singularity / image builds
+- Git-based version control, remote execution & HPC environment management (SSH) 
 
 ### 🛠️ Tools & Technologies
-Python, SQL, Bash, GROMACS, PyMOL, ChimeraX, AutoDock Vina, PyFoldX, DSSP, AlphaFold, SwissModel, Nextflow, Scikit-learn, TensorFlow, BioPython, DBMS, Linux
-
-### 📂 Notable Projects
-- **Antibiotic Resistance Mutation DB**  
-  A custom-curated repository of mutated proteins involved in antibiotic resistance with ligand binding analysis.
-
-- **β-hairpin Folding Analysis (GB1)**  
-  Identified optimal collective variables using machine learning on MD simulation data.
-
-- **NGS Workflow Automation**  
-  Built scalable and reproducible NGS pipelines for high-throughput sequencing data analysis using Nextflow and Python.
-
-### 🧠 Certifications
-- Python for Genomic Data Science (Coursera)  
-- Data Visualization with Python (Coursera, upGrad)  
-- SQL for Data Science (Coursera)  
+Python, Bash, R, Nextflow, Docker, Singularity, Image builds & OCI containers, Git/GitHub, SSH, FastQC, MultiQC, Trimmomatic, Cutadapt, BWA, Bowtie2, HISAT2, STAR, samtools, bcftools, GATK, FreeBayes, Picard, featureCounts, HTSeq, DESeq2, edgeR, BUSCO, QUAST, Prokka, SnpEff, VEP, SeqKit, SRA Toolkit, QIIME2, DADA2, Kraken2, Bracken, MetaPhlAn, HUMAnN GROMACS, PyMOL, ChimeraX, PyFoldX, FoldX, AutoDock Vina, AlphaFold, Scikit-learn, TensorFlow, Linux, SQL
 
 ---
 
