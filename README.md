@@ -2,26 +2,73 @@
 
 # I'm Muhammed Murshid KP
 
-**Bioinformatics Analyst | NGS & Multi-omics | ML & MD Simulations | Structural Biology | Pipeline Automation & DevOps**
+**Bioinformatic Analyst | Genomics (WES, RNA-seq, Metagenomics) | Structural Bioinformatics | AI/ML-driven Analysis | Workflow Development**
 
-I work across the full workflow of computational biology — from high-throughput data processing to biological interpretation, as well as pipeline automation, containerization, and reproducible research engineering.
-My experience spans genomics, metagenomics, variant analysis, microbial community profiling, and protein–ligand interaction studies, combined with molecular dynamics simulations and machine learning for structural insights.
-
-### Core Expertise
-- NGS data analysis & interpretation (WGS, RNA-Seq, amplicon profiling)
-- Genome assembly, variant calling & functional annotation
-- Microbial community profiling & abundance analytics
-- Protein–ligand interaction modeling, ΔΔG prediction & structural analysis
-- MD + ML workflows for structural feature extraction & conformational analysis
-- Pipeline automation, reproducibility engineering & high-performance computing
-- Containerized environments & deployment: Docker / Singularity / image builds
-- Git-based version control, remote execution & HPC environment management (SSH) 
-
-### 🛠️ Tools & Technologies
-Python, Bash, R, Nextflow, Docker, Singularity, Image builds & OCI containers, Git/GitHub, SSH, FastQC, MultiQC, Trimmomatic, Cutadapt, BWA, Bowtie2, HISAT2, STAR, samtools, bcftools, GATK, FreeBayes, Picard, featureCounts, HTSeq, DESeq2, edgeR, BUSCO, QUAST, Prokka, SnpEff, VEP, SeqKit, SRA Toolkit, QIIME2, DADA2, Kraken2, Bracken, MetaPhlAn, HUMAnN GROMACS, PyMOL, ChimeraX, PyFoldX, FoldX, AutoDock Vina, AlphaFold, Scikit-learn, TensorFlow, Linux, SQL
+I work across genomics, metagenomics, and structural biology, combining **NGS data analysis with AI/ML-driven approaches** to extract meaningful biological insights. My work spans both **applied pipelines (variant interpretation, RNA-seq, microbial profiling)** and **research-focused problems (protein–ligand interactions, mutation impact, and predictive modeling)**.
 
 ---
 
-Let’s connect & collaborate!
+### 🔬 Core Work
+
+* WES data processing, variant filtering & interpretation (SNVs/INDELs)
+* RNA-seq workflows (alignment, quantification, differential analysis – workflow-level)
+* Metagenomics:
+
+  * Amplicon-based profiling (16S/ITS)
+  * Shotgun metagenomics (taxonomic and functional workflows)
+* Annotation-driven variant prioritization and structured decision logic
+* Protein–ligand interaction analysis and binding site characterization
+* Mutation impact analysis using structural and energy-based approaches
+* MD trajectory analysis and feature extraction (RMSD, Rg, H-bonds, distance matrices, etc.)
+* Application of **AI/ML methods (feature engineering, dimensionality reduction, classification models)** for biological data analysis
+
+---
+
+### ⚙️ Pipeline & Infrastructure
+
+* Workflow development and execution in Linux environments
+* Nextflow-based pipelines (development and execution)
+* HPC-based processing using SLURM
+* Containerized workflows using Docker and Singularity
+* Reproducible scripting using Python and Bash
+* Version control and collaboration using Git
+
+---
+
+### 🛠️ Tools & Technologies
+
+**Programming & Data / ML**
+Python, Bash, pandas, numpy, scikit-learn, tensorflow, keras
+
+**NGS / Genomics**
+BWA-MEM2, spades, samtools, bcftools, GATK, VEP / SnpEff, cnvkit, deepvariant, annotsv, manta, mosdepth, capice
+
+**RNA-seq**
+HISAT2 / STAR, featureCounts / HTSeq
+
+**Metagenomics**
+Kraken2, MetaPhlAn, qiime2, prokka, eggnog_mapper, dbCAN, prodigal, graftM, 
+
+**Structural Biology**
+GROMACS (analysis), PyMOL, FoldX / PyFoldX
+
+**Workflow & Systems**
+Nextflow, SLURM, Docker, Singularity
+
+**General**
+Linux, Git, SSH
+
+---
+
+### 🚀 Current Direction
+
+* Developing **ACMG-aligned variant interpretation workflows**
+* Applying **AI/ML methods to mutation impact and protein–ligand interaction analysis**
+* Integrating **multi-omics and structural data for predictive insights**
+* Building **CLI-based bioinformatics tools and reproducible pipelines**
+
+---
+
+### 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/kpmurshid) | [GitHub](https://github.com/Kpmurshid) | [Email](mailto:murshidcherooth@gmail.com)
