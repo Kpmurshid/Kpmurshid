@@ -50,7 +50,7 @@ More tools are planned. Check [kpmurshid.in/tools](https://kpmurshid.in/tools) f
 * **Research Scholar, Structural Bioinformatics**, CCS Haryana Agricultural University (protein folding MD; contributed to a published study on protein energy landscapes)
 * **Bioinformatics Intern**, Loncure Pvt Ltd
 
-**Education:** MSc Bioinformatics, CCS Haryana Agricultural University | BSc, SKUAST-K, Srinagar
+**Education:** MSc Bioinformatics, CCS Haryana Agricultural University | BSc, SKUAST-K, Srinagar Kashmir
 
 ---
 
