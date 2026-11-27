@@ -1,55 +1,34 @@
 <table>
 <tr>
 <td width="43%" valign="middle">
-<pre>
-                                              
-                                              
-           .                                  
-                          ..                  
-       .:                    ...              
-      ..                   .. ..              
-      .    .:            :-  ..               
-           ::.-=++=-:...==##+=:               
-           ::.-+*#**+-::=*#%@*=.              
-          ::::  :=*#+-:.-+*#%#=+*-            
-        .::-...:::+##+==+**#@%*##=            
-         -====+++=+#%%###%%%@#+**             
-          -=++***==##*##%%%%#==*:             
-          ..=+**+: ::=++#%#+-:-               
-             --.  .--=: :+-...*               
-                .-=--**:     -#.              
-                 .:. ..     :*#:              
-                          .=**+               
-                       .:=+**+.               
-                  ::.:--==++=.                
-                   :-----===.                 
-                   .:++====.                  
-                   ==++++-                    
-                   :+++=.                     
-                    -+=                       
-                     :                        
-                                              
-</pre>
+<img src="assets/murshid-ascii-portrait-black.png"
+     width="100%" alt="Muhammed Murshid ASCII Portrait">
 </td>
 <td width="57%" valign="middle">
-<h1>Muhammed Murshid KP</h1>
-<strong>Bioinformatics Engineer</strong>
-<br><br>
+
+# Muhammed Murshid KP
+
+**Bioinformatics Engineer**
+
 Building computational genomics tools, reproducible pipelines and AI-driven biological solutions.
-<br><br>
-<strong>DOMAINS</strong><br>
+
+**DOMAINS**
+
 Clinical Genomics · NGS · Bio-AI · Structural Biology
-<br><br>
-<strong>ENGINEERING</strong><br>
+
+**ENGINEERING**
+
 Go · Python · R · Nextflow · TypeScript
-<br><br>
-<strong>BASED IN</strong><br>
+
+**BASED IN**
+
 India
-<br><br>
-<a href="https://kpmurshid.in">Website</a> ·
-<a href="https://www.linkedin.com/in/kpmurshid">LinkedIn</a>
-<br><br>
-<code>STATUS: BUILDING THE FUTURE OF GENOMICS</code>
+
+[Website](https://kpmurshid.in) ·
+[LinkedIn](https://www.linkedin.com/in/kpmurshid)
+
+`STATUS: BUILDING THE FUTURE OF GENOMICS`
+
 </td>
 </tr>
 </table>
