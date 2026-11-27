@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/murshid-ascii-portrait-black.png" width="420" alt="ASCII portrait of Muhammed Murshid KP">
+<img src="./assets/MKP-logo.png" width="420" alt="ASCII portrait of Muhammed Murshid KP">
 
 <h1>Muhammed Murshid KP</h1>
 
