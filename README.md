@@ -8,7 +8,7 @@
 <h1>Muhammed Murshid KP</h1>
 
 <strong>Bioinformatics Engineer</strong>
-<p>Building computational genomics tools, reproducible pipelines and AI-driven biological solutions.</p>
+<p>Building computational genomics tools and reproducible pipelines.</p>
 
 <strong>DOMAINS</strong><br>
 Clinical Genomics · NGS · Bio-AI · Structural Biology
@@ -25,8 +25,6 @@ India
 <a href="https://kpmurshid.in">Website</a> ·
 <a href="https://www.linkedin.com/in/kpmurshid">LinkedIn</a>
 </p>
-
-<code>BUILDING THE FUTURE OF GENOMICS</code>
 
 </td>
 </tr>
@@ -48,7 +46,7 @@ Outside client work, I develop open-source tools, ship interactive genomics soft
 **Zero-allocation VCF filter in Go**
 
 - ~147,000 variants/sec, 12.2x faster than bcftools on an 18 GB VCF (1.8M variants), with identical output.
-- 7.9x faster on gzip-compressed input; I/O-bound even at one thread, with speedup holding from 1 to 48 threads.
+- 7.9x faster on gzip-compressed input; I/O-bound even at one thread, with the speedup holding from 1 to 48 threads.
 - Zero heap allocations in the hot path, verified with `go test -benchmem`.
 - Static binary, Docker and Singularity images, MIT licensed.
 - bioRxiv preprint (April 2026): [10.64898/2026.04.14.718370](https://doi.org/10.64898/2026.04.14.718370) · Software DOI: [10.5281/zenodo.19548662](https://doi.org/10.5281/zenodo.19548662).
@@ -59,8 +57,8 @@ Outside client work, I develop open-source tools, ship interactive genomics soft
 
 - Tracks classification changes across monthly ClinVar releases for the 84-gene ACMG SF v3.3 panel (341,000+ variants).
 - 7,869 classification changes across ten monthly snapshots, with per-variant trajectory charts.
-- Distinguishes aggregate ClinVar label shifts as submissions arrive from actual clinical reinterpretation.
-- Next.js frontend, Turso-hosted database.
+- Most changes reflect ClinVar's aggregate label shifting as submissions arrive, not clinical reinterpretation, and the tool says so.
+- Next.js front end, Turso-hosted database.
 - Write-ups: [Tracking ClinVar Reclassifications](https://kpmurshid.in/blog/clinvar-reclassification-history) · [GLA Variants Are Getting a Second Look](https://kpmurshid.in/blog/clinvar-october-gla-update).
 
 ### [ASVFlow](https://github.com/Kpmurshid/ASVFlow)
@@ -137,15 +135,15 @@ Outside client work, I develop open-source tools, ship interactive genomics soft
 
 ## Experience
 
-- **Bioinformatic Analyst** — Decipher Genomics & Research, Ahmedabad (Sep 2025 – Present).
-- **Research Assistant, Computational Drug Discovery** — Telscie Genetics (Feb 2025 – Aug 2025).
-- **Research Scholar, Structural Bioinformatics** — CCS Haryana Agricultural University (Jan 2023 – Dec 2024). Contributed to a published study on protein energy landscapes.
-- **Bioinformatics Intern** — Loncure Pvt Ltd (Sep 2024 – Oct 2024).
+- **Bioinformatic Analyst**, Decipher Genomics & Research, Ahmedabad (Sep 2025 to present).
+- **Research Assistant, Computational Drug Discovery**, Telscie Genetics (Feb 2025 to Aug 2025).
+- **Research Scholar, Structural Bioinformatics**, CCS Haryana Agricultural University (Jan 2023 to Dec 2024). Contributed to a published study on protein energy landscapes.
+- **Bioinformatics Intern**, Loncure Pvt Ltd (Sep 2024 to Oct 2024).
 
 **Education**
 
-- MSc Bioinformatics — CCS Haryana Agricultural University, Hisar.
-- BSc Forestry — SKUAST-K, Srinagar.
+- MSc Bioinformatics, CCS Haryana Agricultural University, Hisar.
+- BSc Forestry, SKUAST-K, Srinagar.
 
 ---
 
@@ -159,7 +157,7 @@ Outside client work, I develop open-source tools, ship interactive genomics soft
 - Applying AI/ML to mutation impact and protein-ligand interaction analysis.
 - Integrating multi-omics and structural data for predictive insights.
 
-**Open to collaboration on genomics pipelines, computational biology and bioinformatics tooling.**
+Open to collaboration on genomics pipelines, computational biology and bioinformatics tooling.
 
 ---
 
@@ -168,9 +166,3 @@ Outside client work, I develop open-source tools, ship interactive genomics soft
 [![Website](https://img.shields.io/badge/Website-kpmurshid.in-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://kpmurshid.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpmurshid)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:murshidcherooth@gmail.com)
-
----
-
-<p align="center">
-<sub>Computational biology · Genomics · Open-source engineering</sub>
-</p>
