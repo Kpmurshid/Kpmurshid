@@ -8,30 +8,23 @@
 <h1>Muhammed Murshid KP</h1>
 
 <strong>Bioinformatics Engineer</strong>
-
-Building computational genomics tools, reproducible pipelines and AI-driven biological solutions.
-
-<br><br>
+<p>Building computational genomics tools, reproducible pipelines and AI-driven biological solutions.</p>
 
 <strong>DOMAINS</strong><br>
 Clinical Genomics · NGS · Bio-AI · Structural Biology
 
 <br><br>
-
 <strong>ENGINEERING</strong><br>
 Go · Python · R · Nextflow · TypeScript
 
 <br><br>
-
 <strong>BASED IN</strong><br>
 India
 
-<br><br>
-
+<p>
 <a href="https://kpmurshid.in">Website</a> ·
 <a href="https://www.linkedin.com/in/kpmurshid">LinkedIn</a>
-
-<br><br>
+</p>
 
 <code>BUILDING THE FUTURE OF GENOMICS</code>
 
