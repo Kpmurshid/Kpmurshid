@@ -32,12 +32,6 @@ I build the pipelines and software underneath them: clinical WES/WGS, genome ass
 
 Outside client work, I develop open-source tools, ship interactive genomics software and pursue structural research rooted in molecular dynamics and drug discovery.
 
-> Life is written in variation: a single base, a gene, a pathway, a whole community.
-
-I build the pipelines and software underneath them: clinical WES/WGS, genome assembly, metagenomics and polygenic risk scoring. At Decipher Genomics & Research (Ahmedabad), I'm the primary pipeline architect across clinical, microbial and population-scale genomics projects.
-
-Outside client work, I develop open-source tools, ship interactive genomics software and pursue structural research rooted in molecular dynamics and drug discovery.
-
 **Explore:** [Website](https://kpmurshid.in) · [Portfolio](https://kpmurshid.in/portfolio) · [Tools](https://kpmurshid.in/tools) · [Genomics Arena](https://kpmurshid.in/arena) · [Blog](https://kpmurshid.in/blog)
 
 ---
