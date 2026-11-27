@@ -1,12 +1,9 @@
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" border="0">
 <tr>
-<td width="42%" align="center" valign="middle">
-<img src="assets/murshid-ascii-portrait-black.png"
-     width="100%"
-     alt="Muhammed Murshid KP">
+<td width="38%" valign="top" align="center">
+<img src="./assets/murshid-ascii-portrait-black.png" width="300" alt="ASCII portrait of Muhammed Murshid KP">
 </td>
-
-<td width="58%" valign="middle">
+<td width="62%" valign="top">
 
 <h1>Muhammed Murshid KP</h1>
 
@@ -14,32 +11,21 @@
 
 Building computational genomics tools, reproducible pipelines and AI-driven biological solutions.
 
-<br><br>
-
-<strong>DOMAINS</strong>
-
+<strong>DOMAINS</strong><br>
 Clinical Genomics · NGS · Bio-AI · Structural Biology
 
-<br><br>
-
-<strong>ENGINEERING</strong>
-
+<strong>ENGINEERING</strong><br>
 Go · Python · R · Nextflow · TypeScript
 
-<br><br>
-
-<strong>BASED IN</strong>
-
+<strong>BASED IN</strong><br>
 India
-
-<br><br>
 
 <a href="https://kpmurshid.in">Website</a> ·
 <a href="https://www.linkedin.com/in/kpmurshid">LinkedIn</a>
 
 <br><br>
 
-<code>STATUS: BUILDING THE FUTURE OF GENOMICS</code>
+<code>BUILDING THE FUTURE OF GENOMICS</code>
 
 </td>
 </tr>
