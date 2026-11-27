@@ -1,33 +1,45 @@
-<table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td width="43%" valign="middle">
-<img src="assets/murshid-ascii-portrait-black.png"
-     width="100%" alt="Muhammed Murshid ASCII Portrait">
+<td width="42%" align="center" valign="middle">
+<img src="assets/murshid-ascii-portrait-readable.png"
+     width="100%"
+     alt="Muhammed Murshid KP">
 </td>
-<td width="57%" valign="middle">
 
-# Muhammed Murshid KP
+<td width="58%" valign="middle">
 
-**Bioinformatics Engineer**
+<h1>Muhammed Murshid KP</h1>
+
+<strong>Bioinformatics Engineer</strong>
 
 Building computational genomics tools, reproducible pipelines and AI-driven biological solutions.
 
-**DOMAINS**
+<br><br>
+
+<strong>DOMAINS</strong>
 
 Clinical Genomics · NGS · Bio-AI · Structural Biology
 
-**ENGINEERING**
+<br><br>
+
+<strong>ENGINEERING</strong>
 
 Go · Python · R · Nextflow · TypeScript
 
-**BASED IN**
+<br><br>
+
+<strong>BASED IN</strong>
 
 India
 
-[Website](https://kpmurshid.in) ·
-[LinkedIn](https://www.linkedin.com/in/kpmurshid)
+<br><br>
 
-`STATUS: BUILDING THE FUTURE OF GENOMICS`
+<a href="https://kpmurshid.in">Website</a> ·
+<a href="https://www.linkedin.com/in/kpmurshid">LinkedIn</a>
+
+<br><br>
+
+<code>STATUS: BUILDING THE FUTURE OF GENOMICS</code>
 
 </td>
 </tr>
