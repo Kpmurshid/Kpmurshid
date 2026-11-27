@@ -1,7 +1,7 @@
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td width="42%" align="center" valign="middle">
-<img src="assets/murshid-ascii-portrait-readable.png"
+<img src="assets/murshid-ascii-portrait-black.png"
      width="100%"
      alt="Muhammed Murshid KP">
 </td>
