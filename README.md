@@ -10,7 +10,7 @@
 
 <p>
 Clinical Genomics · NGS · Structural Biology · Bio-AI<br>
-Go · Python · R · Nextflow · TypeScript
+Bash · Python · R · Nextflow · SQL
 </p>
 
 <p>
