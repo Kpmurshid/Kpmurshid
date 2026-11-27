@@ -1,34 +1,36 @@
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="middle" align="center">
-<img src="./assets/murshid-ascii-portrait-black.png" width="450" alt="ASCII portrait of Muhammed Murshid KP">
-</td>
-<td width="50%" valign="middle">
+<div align="center">
+
+<img src="./assets/murshid-ascii-portrait-black.png" width="420" alt="ASCII portrait of Muhammed Murshid KP">
 
 <h1>Muhammed Murshid KP</h1>
 
-<strong>Bioinformatics Engineer</strong>
+<p><strong>Bioinformatics Engineer</strong></p>
+
 <p>Building computational genomics tools and reproducible pipelines.</p>
 
-<strong>DOMAINS</strong><br>
-Clinical Genomics · NGS · Bio-AI · Structural Biology
-
-<br><br>
-<strong>ENGINEERING</strong><br>
+<p>
+Clinical Genomics · NGS · Structural Biology · Bio-AI<br>
 Go · Python · R · Nextflow · TypeScript
-
-<br><br>
-<strong>BASED IN</strong><br>
-India
+</p>
 
 <p>
 <a href="https://kpmurshid.in">Website</a> ·
+<a href="https://kpmurshid.in/portfolio">Portfolio</a> ·
+<a href="https://kpmurshid.in/tools">Tools</a> ·
+<a href="https://kpmurshid.in/arena">Genomics Arena</a> ·
+<a href="https://kpmurshid.in/blog">Blog</a> ·
 <a href="https://www.linkedin.com/in/kpmurshid">LinkedIn</a>
 </p>
 
-</td>
-</tr>
-</table>
+</div>
+
+---
+
+> Life is written in variation: a single base, a gene, a pathway, a whole community.
+
+I build the pipelines and software underneath them: clinical WES/WGS, genome assembly, metagenomics and polygenic risk scoring. At Decipher Genomics & Research (Ahmedabad), I'm the primary pipeline architect across clinical, microbial and population-scale genomics projects.
+
+Outside client work, I develop open-source tools, ship interactive genomics software and pursue structural research rooted in molecular dynamics and drug discovery.
 
 > Life is written in variation: a single base, a gene, a pathway, a whole community.
 
