@@ -1,9 +1,9 @@
 <table width="100%" border="0">
 <tr>
-<td width="38%" valign="top" align="center">
-<img src="./assets/murshid-ascii-portrait-black.png" width="300" alt="ASCII portrait of Muhammed Murshid KP">
+<td width="45%" valign="middle" align="center">
+<img src="./assets/murshid-ascii-portrait-black.png" width="380" alt="ASCII portrait of Muhammed Murshid KP">
 </td>
-<td width="62%" valign="top">
+<td width="55%" valign="middle">
 
 <h1>Muhammed Murshid KP</h1>
 
